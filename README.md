@@ -3,6 +3,11 @@
 This project uses an ESP32 D1 Mini to control a servo motor through a web interface. The web page features a slider to adjust the angle of the servo, and the ESP32 handles incoming requests to set the servo position accordingly.
 
 
+
+https://github.com/user-attachments/assets/4ee08cd4-d6c0-4cba-86e8-41813dfc5eb7
+
+
+
 | Phone | Laptop  |
 | -- | -- |
 |![IMG_7713](https://github.com/user-attachments/assets/92b36290-759f-473b-b6a4-56ed300a5180) | https://github.com/user-attachments/assets/693a454c-dded-4cca-8d87-32b607b0d423 |
