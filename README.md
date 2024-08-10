@@ -1,6 +1,6 @@
 # ESP32 Servo Control via Web Interface
 
-This project uses an ESP32 D1 Mini to control a servo motor through a web interface. The web page features a slider to adjust the angle of the servo, and the ESP32 handles incoming requests to set the servo position accordingly.
+This task uses an ESP32 D1 Mini to control a servo motor through a web interface. The web page features a slider to adjust the angle of the servo, and the ESP32 handles incoming requests to set the servo position accordingly.
 
 
 | User Interface | Execute  |
