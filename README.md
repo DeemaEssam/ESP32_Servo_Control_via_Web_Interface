@@ -58,11 +58,10 @@ void setup() {
 }
 
 void loop() {
-  // Your code here
 }
 
 ```
-![Screenshot 2024-08-10 082101](https://github.com/user-attachments/assets/6c99349d-c8d5-40ce-a6aa-8b244aa65e25)
+![iii](https://github.com/user-attachments/assets/aaeee859-cbf2-4f20-b643-1485339d544d)
 
 
 2. **Install Libraries:**
