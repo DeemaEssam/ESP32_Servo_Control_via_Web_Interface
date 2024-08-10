@@ -5,8 +5,8 @@ This project uses an ESP32 D1 Mini to control a servo motor through a web interf
 
 | Phone | Laptop  |
 | -- | -- |
-|![IMG_7713](https://github.com/user-attachments/assets/92b36290-759f-473b-b6a4-56ed300a5180) |  ![webServer](https://github.com/user-attachments/assets/bd2e47cf-54c6-4d0e-87c1-98c2ac8470ce)
- |
+| <img src="https://github.com/user-attachments/assets/92b36290-759f-473b-b6a4-56ed300a5180" width="300" /> |   <img src="https://github.com/user-attachments/assets/bd2e47cf-54c6-4d0e-87c1-98c2ac8470ce" width="300" /> |
+
 
 ## Components
 
