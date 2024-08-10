@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/4ee08cd4-d6c0-4cba-86e8-41813dfc5eb7
 
 | Phone | Laptop  |
 | -- | -- |
-|![IMG_7713](https://github.com/user-attachments/assets/92b36290-759f-473b-b6a4-56ed300a5180) | https://github.com/user-attachments/assets/693a454c-dded-4cca-8d87-32b607b0d423 |
+|![IMG_7713](https://github.com/user-attachments/assets/92b36290-759f-473b-b6a4-56ed300a5180) | https://github.com/user-attachments/assets/4ee08cd4-d6c0-4cba-86e8-41813dfc5eb7 |
 
 ## Components
 
