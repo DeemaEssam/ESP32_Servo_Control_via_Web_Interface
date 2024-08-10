@@ -40,9 +40,6 @@ This project uses an ESP32 D1 Mini to control a servo motor through a web interf
   Serial.println("IP Address: ");
   Serial.println(WiFi.localIP());
 ```
-![iii](https://github.com/user-attachments/assets/aaeee859-cbf2-4f20-b643-1485339d544d)
-
-
 2. **Install Libraries:**
    - Go to `Sketch` > `Include Library` > `Manage Libraries`.
    - Install the following libraries:
