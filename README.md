@@ -22,17 +22,18 @@ This project uses an ESP32 D1 Mini to control a servo motor through a web interf
    - **Signal (Yellow/White Wire)**: Connect to GPIO pin `18` on the ESP32 D1 Mini.
 
 ## Software Setup
-***REFERENCE*** : https://youtu.be/ZwSQzpiaszo?si=VVGRimdC3EXavGOd
 1. **Arduino IDE Setup:**
+   - https://youtu.be/ZwSQzpiaszo?si=VVGRimdC3EXavGOd
+   - https://github.com/me-no-dev/arduino-esp32fs-plugin
    - Add the ESP32 board support:
      1. Go to `File` > `Preferences`.
      2. In the `Additional Board Manager URLs` field, add the following URL:
+        
         ```
         https://dl.espressif.com/dl/package_esp32_index.json
         ```
-     3. Click `OK`.
-     4. Go to `Tools` > `Board` > `Boards Manager`.
-     5. Search for "ESP32" and install it.
+     3. Go to `Tools` > `Board` > `Boards Manager`.
+     4. Search for "ESP32" and install it.
 
 3. **Install Libraries:**
    - Go to `Sketch` > `Include Library` > `Manage Libraries`.
