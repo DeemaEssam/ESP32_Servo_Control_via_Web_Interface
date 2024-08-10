@@ -36,31 +36,9 @@ This project uses an ESP32 D1 Mini to control a servo motor through a web interf
 
 2. **This code prints the IP address of the ESP in the serial monitor**
 ```ruby
-#include <WiFi.h>
-
-const char* ssid = "";
-const char* password = "";
-
-void setup() {
-  Serial.begin(115200);
-
-  WiFi.begin(ssid, password);
-  
-  // Wait for connection
-  while (WiFi.status() != WL_CONNECTED) {
-    delay(1000);
-    Serial.println("Connecting to WiFi...");
-  }
-  
-  // Once connected, print the IP address
   Serial.println("Connected to WiFi");
-  Serial.print("ESP32 IP Address: ");
-  Serial.println(WiFi.localIP());  // Print the local IP address
-}
-
-void loop() {
-}
-
+  Serial.println("IP Address: ");
+  Serial.println(WiFi.localIP());
 ```
 ![iii](https://github.com/user-attachments/assets/aaeee859-cbf2-4f20-b643-1485339d544d)
 
