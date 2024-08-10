@@ -34,13 +34,7 @@ This project uses an ESP32 D1 Mini to control a servo motor through a web interf
      4. Go to `Tools` > `Board` > `Boards Manager`.
      5. Search for "ESP32" and install it.
 
-2. **This code prints the IP address of the ESP in the serial monitor**
-```ruby
-  Serial.println("Connected to WiFi");
-  Serial.println("IP Address: ");
-  Serial.println(WiFi.localIP());
-```
-2. **Install Libraries:**
+3. **Install Libraries:**
    - Go to `Sketch` > `Include Library` > `Manage Libraries`.
    - Install the following libraries:
      - `ESP32Servo` (for servo control)
@@ -48,14 +42,14 @@ This project uses an ESP32 D1 Mini to control a servo motor through a web interf
      - `ESPAsyncWebServer`
      - `AsyncTCP`
 
-3. **Upload the Sketch:**
+4. **Upload the Sketch:**
    - Open the Arduino IDE.
    - Connect your ESP32 D1 Mini to your computer.
    - Select `Tools` > `Board` > `WEMOS D1 MINI ESP32`.
    - Select the appropriate port under `Tools` > `Port`.
    - Open the `webServer.ino` sketch and upload it to the ESP32.
 
-## Web Interface
+5. **Web Interface**
 
 1. Once the ESP32 is connected to your WiFi network, open the Serial Monitor to get the IP address assigned to your ESP32.
 2. Enter this IP address into your web browser to access the control interface.
